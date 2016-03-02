@@ -10,6 +10,8 @@ include "class/test.class.php" ;
 
 echo "ceci est un test pour git</br>" ;
 
+echo "ceci est un test pour git 22</br>" ;
+
 $test = new test(1) ;
 
 $test->sayMyName("toto");
